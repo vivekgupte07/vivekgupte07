@@ -18,3 +18,6 @@ To incorporate robots in our day-to-day lives, we need to help them understand h
 I have also worked on prototyping robots, and I love to play around with 3D printers. Naturally, that also makes me good at CAD! (So, if you ever need a icosahedron dice 🎲 for DnD, feel free to contact me!). 
 
 Reach out to me at: vivekgupte07@gmail.com
+
+My publications:
+Nayak, A., Gupte, V., Singru, P. (2023). Studying the Effects of Varying Link Lengths in Double Lambda Mechanism and Its Application to Rover Suspension Design. In: Gupta, V.K., Amarnath, C., Tandon, P., Ansari, M.Z. (eds) Recent Advances in Machines and Mechanisms. Lecture Notes in Mechanical Engineering. Springer, Singapore. https://doi.org/10.1007/978-981-19-3716-3_4
