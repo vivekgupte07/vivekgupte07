@@ -19,5 +19,7 @@ I have also worked on prototyping robots, and I love to play around with 3D prin
 
 Reach out to me at: vivekgupte07@gmail.com
 
-My publications:
-Nayak, A., Gupte, V., Singru, P. (2023). Studying the Effects of Varying Link Lengths in Double Lambda Mechanism and Its Application to Rover Suspension Design. In: Gupta, V.K., Amarnath, C., Tandon, P., Ansari, M.Z. (eds) Recent Advances in Machines and Mechanisms. Lecture Notes in Mechanical Engineering. Springer, Singapore. https://doi.org/10.1007/978-981-19-3716-3_4
+
+Publication:
+
+>Nayak, A., Gupte, V., Singru, P. (2023). Studying the Effects of Varying Link Lengths in Double Lambda Mechanism and Its Application to Rover Suspension Design. In: Gupta, V.K., Amarnath, C., Tandon, P., Ansari, M.Z. (eds) Recent Advances in Machines and Mechanisms. Lecture Notes in Mechanical Engineering. Springer, Singapore. https://doi.org/10.1007/978-981-19-3716-3_4
