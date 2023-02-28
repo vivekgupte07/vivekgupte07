@@ -2,7 +2,7 @@
 
 I am a final year MSc. Biological Science and B.E. Mechanical Engineering student from BITS-Pilani, Goa, India. 
 
-Currently, I am visiting the Intelligent Robotics Lab, (BGU, Israel) for my graduation thesis - and working on Human-Robot Interaction for Industrial Tasks. I work on Human-In-The-Loop RL (HITL-RL) for manipulation in industrial tasks. 
+Currently, I am visiting the Intelligent Robotics Lab, (BGU, Israel) for my graduation thesis - and working on Human-Robot Interaction for Industrial Tasks. I work on Human-In-The-Loop RL (HITL-RL) for manipulation tasks. 
 
 
 My interests lie in the intersection of Robot Learning and Human-Robot Interaction. I look forward to explore two things: 
@@ -11,8 +11,7 @@ My interests lie in the intersection of Robot Learning and Human-Robot Interacti
 
 For this, I am learning safe HITL-RL methods, continual learning, as well as personalization of controllers. 
 
-
-In order to have robots helping us in our day-to-day tasks, we need to help them understand how to help us! And by us, I mean anyone, even a non-expert! This was something I have explored as a part of one of my graduation theses (another thesis coming soon;) - 
+To incorporate robots in our day-to-day lives, we need to help them understand how to help us! And any person, regardless of their knowledge of robotics, should be able to comfortably instruct these robots. This is something I have explored as a part of one of my graduation theses (another thesis coming soon;) - 
 [Human-In-The-Loop Reinforcement Learning for Robot Controllers](https://drive.google.com/drive/folders/175rNblO4qXI9Ic9CfFCiGrZqiu0czuGR?usp=share_link)
 
 
