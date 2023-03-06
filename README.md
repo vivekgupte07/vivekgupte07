@@ -15,7 +15,7 @@ To incorporate robots in our day-to-day lives, we need to help them understand h
 [Human-In-The-Loop Reinforcement Learning for Robot Controllers](https://drive.google.com/drive/folders/175rNblO4qXI9Ic9CfFCiGrZqiu0czuGR?usp=share_link)
 
 
-I have also worked on prototyping robots, and I love to play around with 3D printers. Naturally, that also makes me good at CAD! (So, if you ever need a icosahedron dice 🎲 for DnD, feel free to contact me!). 
+I have also worked on prototyping robots, and I love to play around with 3D printers. Naturally, that also makes me good at CAD! (So, if you ever need an icosahedron dice 🎲 for DnD, feel free to contact me!). 
 
 Reach out to me at: vivekgupte07@gmail.com
 
